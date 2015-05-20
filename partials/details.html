@@ -1,0 +1,14 @@
+<section class="hostinfo">
+	<div class="host" ng-model="host">
+		<a class="btn btn-left" href="#/details/{{prevItem}}">&lt;</a>
+		<a class=" btn btn-right" href="#/details/{{nextItem}}">&gt;</a>
+		<h1>{{host[whichItem].name}}</h1>
+		<div class="info">
+			<h3>{{host[whichItem].title}}</h3>
+			<img ng-src="images/{{host[whichItem].shortname}}_tn.jpg" alt="Photo of {{host[whichItem].name}}">
+			<div class="bio">{{host[whichItem].bio}}</div>
+		</div>
+		
+	</div>
+	<a href="#/">&laquo; Back to search</a>
+</section>

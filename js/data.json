@@ -1,0 +1,44 @@
+[
+	{
+		"name" : "Chuck 'Blake' Zodl",
+		"shortname" : "Chuck_Zodl",
+		"title" : "Editor in Chief, Designer, and Host",
+		"bio" : "With a desire to break into the Games Industry Chuck is the lead man for all of Counter Attacks gaming news, posting the latest happenings within the industry and reviews for new releases. Chuck prefers a good story and a willingness to try something different above all else and can usually be found fiddling on his iPad or reading comics.",
+		"platforms" : "Everything"
+	},
+	{
+		"name" : "Randy 'Safeword' Wiafe",
+		"shortname" : "Randy_Wiafe",
+		"title" : "Writer, eSport's Chief, and Host",
+		"bio" : "Randy is Counter Attacks eSports aficionado and is actively involved in the Pro Gaming circuit, often leading to trips around the world where he competes against some of the best in games of LoL, Starcraft 2 and Dota. In his free time Randy can be found at Urban Peak and Red Cross where he volunteers and loves to read and discover new music.",
+		"platforms" : "PC, PlayStation 4, Android"
+	},
+	{
+		"name" : "Chris 'Topher' Wilson",
+		"shortname" : "Chris_Wilson",
+		"title" : "Writer, MMO God, and Host",
+		"bio" : "Chris is unfiltered and to the point, using as little words as possible to tell it like it is, both in his writing and in person. Outside of the site he can be found applying his skills as a massage therapist and getting lost in the worlds of several different massively multiplayer online games. Chris is the one in the group that despises reading.",
+		"platforms" : "PC, Xbox One, 3DS, iOS"
+	},
+	{
+		"name" : "Gene 'Solid' Blum",
+		"shortname" : "Gene_Blum",
+		"title" : "Guest",
+		"bio" : "With a specialization in retro, mobile, and PC gaming; Gene prefers the strange and eclectic and is currently conquering the computer science field when not maintaining his local liquor store.",
+		"platforms" : "PC, Android, Old Stuff"
+	},
+	{
+		"name" : "Megan 'The Badass' Delilah",
+		"shortname" : "Megan_Delilah",
+		"title" : "Guest",
+		"bio" : "Megan provides the site with its much needed female perspective. When not fighting for what she feels is right Megan is most likely dishing out ridiculous puns and “shipping” various characters from games and shows.",
+		"platforms" : "PC, Android, 3DS"
+	},
+	{
+		"name" : "Jeff 'The Movie Man' Drinkwater",
+		"shortname" : "Jeff_Drinkwater",
+		"title" : "Guest",
+		"bio" : "A movie buff with dreams of becoming a director, Jeff prefers to sink his teeth into the horror genre in both film and games. In his free time he can be found online competing in rounds of Halo or Battlefield.",
+		"platforms" : "PC, Xbox 360, MOVIES"
+	}
+]
